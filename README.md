@@ -1,5 +1,5 @@
 # Getting Started with List App Drag And Drop
-Prequiste : node 12 in machine
+prerequisite : Need node 12 installed in machine
 Step 1 Use npm install or i ,
 ### `npm i` 
 Step 2
