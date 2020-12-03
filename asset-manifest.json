@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ListApp/static/css/main.1442541c.chunk.css",
+    "main.js": "/ListApp/static/js/main.1419493a.chunk.js",
+    "main.js.map": "/ListApp/static/js/main.1419493a.chunk.js.map",
+    "runtime-main.js": "/ListApp/static/js/runtime-main.368714b0.js",
+    "runtime-main.js.map": "/ListApp/static/js/runtime-main.368714b0.js.map",
+    "static/js/2.3d217156.chunk.js": "/ListApp/static/js/2.3d217156.chunk.js",
+    "static/js/2.3d217156.chunk.js.map": "/ListApp/static/js/2.3d217156.chunk.js.map",
+    "static/js/3.b6ae64af.chunk.js": "/ListApp/static/js/3.b6ae64af.chunk.js",
+    "static/js/3.b6ae64af.chunk.js.map": "/ListApp/static/js/3.b6ae64af.chunk.js.map",
+    "index.html": "/ListApp/index.html",
+    "static/css/main.1442541c.chunk.css.map": "/ListApp/static/css/main.1442541c.chunk.css.map",
+    "static/js/2.3d217156.chunk.js.LICENSE.txt": "/ListApp/static/js/2.3d217156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.368714b0.js",
+    "static/js/2.3d217156.chunk.js",
+    "static/css/main.1442541c.chunk.css",
+    "static/js/main.1419493a.chunk.js"
+  ]
+}
